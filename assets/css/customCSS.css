@@ -1,0 +1,103 @@
+
+  .card-show{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+
+}
+.imgshow{
+    max-width :100% !important;
+    height: 250px !important;
+}
+.containerr {
+    position: relative;
+  }
+
+  .topright {
+  background-color:#135893 ;
+  color: white;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 18px;
+    padding:8px 30px;
+  }
+  
+  .rimg { 
+    max-width: 100%;
+    
+    
+  }  
+  
+.sh-re{
+    box-shadow: 1px 1px 25px 10px #E4E4E4;
+    background-color:#135893;
+  }
+  
+  .sub-re{
+      background-color:#135893 !important; 
+  }
+   
+  .span-re{
+      color :grey;
+  }
+  .form-re{
+      margin-top: 100px;
+  }
+   
+   .btn-re{
+      background-color:  #135893 !important;
+  }
+  .input-re{
+      border:none !important;
+      border-radius: 1px solid !important;
+      width :60% !important;
+      margin-bottom: 25px;
+      border-bottom: 1px solid  #135893 !important;
+  }
+  
+  
+  .col-sm-8-re{
+      max-width:100%;
+      border-radius: 60px 0px 00px 60px !important;
+      background-color: white;
+      padding-top: 50px;
+      text-align: center !important;
+      
+  }
+   .col-sm-4-re{
+      max-width:100%;
+      background-color:#135893 ;
+      
+  }
+  .img-re{
+      max-width:50%;
+      border-radius: 0px 50px 0px 30px;
+  }
+  .row-re{
+      height: 550px;
+  }
+  .iconproduct{
+    fill: #135893;
+  }
+
+  
+  
+    @media screen and (max-width: 575px) {
+      .befor-sm{
+      display: none !important;
+    }
+    .col-sm-8-re{
+        border-radius: 00px 0px 00px 00px;
+    }
+    .sh-re{
+        
+        margin-bottom: 350px !important;
+    }
+    .img-re{
+        padding:25px;
+    }
+}  
+
+ 
+ 
